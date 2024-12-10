@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router-task/static/css/main.c2e49012.css",
+    "main.js": "/router-task/static/js/main.5d5f0642.js",
+    "index.html": "/router-task/index.html",
+    "main.c2e49012.css.map": "/router-task/static/css/main.c2e49012.css.map",
+    "main.5d5f0642.js.map": "/router-task/static/js/main.5d5f0642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e49012.css",
+    "static/js/main.5d5f0642.js"
+  ]
+}
